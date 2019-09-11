@@ -1,7 +1,7 @@
 ---
 layout: workshop      # DON'T CHANGE THIS.
                       # Be sure to update the Carpentry type in _config.yml as well.  
-venue: "Transparent and Open Archaeological Research Using R & Git<br><h3>Two Short Workshops at the Nara National Research Institute for Cultural Properties, Japan</h3>"        # brief name of host site without address (e.g., "Euphoric State University")
+venue: "Transparent and Open Archaeological Research Using R & Git<br><h3>Lectures and Workshops at the Nara National Research Institute for Cultural Properties, Japan</h3>"        # brief name of host site without address (e.g., "Euphoric State University")
 address: "〒630-8577 奈良県奈良市二条町２丁目９−1"      # full street address of workshop (e.g., "Room A, 123 Forth Street, Blimingen, Euphoria")
 country: "jp"      # lowercase two-letter ISO country code such as "fr" (see https://en.wikipedia.org/wiki/ISO_3166-1)
 language: "en"     # lowercase two-letter ISO language code such as "fr" (see https://en.wikipedia.org/wiki/ISO_639-1)
@@ -25,7 +25,6 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
   Edit the general explanatory paragraph below if you want to change
   the pitch.
 {% endcomment %}
-
 
 In recent years serious concerns about the reproducibility and transparency of research have arisen in many scientific disciplines. These concerns reveal a wide gap between scientific practice and scientific ideals, and threaten to erode public support for research. In this workshop we will provide hands-on training in robust techniques, tools and services (all free) to improve the reproducibility and transparency of archaeological research. Most of these tools relate to the R programming language, which is central to recent developments in social and natural sciences.
 
@@ -118,17 +117,29 @@ If you have problems or questions, please send us an email
   for more information. ✉️
 </p>
 
-<h2 id="general">How to register</h2>
-
-To participate in the workshop, you need to ...
-
 <hr/>
+
+<h2 id="lectures">Lectures</h2>
+
+🎤 Lecture 1: "Modern tools and approachesto scientific data management, analysis, visualization, collaboration in archaeology and cultural heritage" ⬇️ Download the slides from osf.io: <a href="https://osf.io/ubvcp/">PDF</a> or <a href="https://osf.io/ubvcp/download">pptx</a>. Download the R code and data used in the demonstration from osf.io: <a href="https://osf.io/bpmd4/download">zip</a>
+
+</p>
+
+🎤 Lecture 2: "Open Access, Open Data, and Open Methods: Three steps to transparency that are redefining archaeological science" ⬇️ Download the slides from osf.io: <a href="https://osf.io/4a6cw/">PDF</a> or <a href="https://osf.io/4a6cw/download">pptx</a>. 
+Download the accompanying paper "Archaeological science and current trends in research publication, data management, and methods transparency and reproducibility" from osf.io: <a href="https://osf.io/apkfn/">PDF</a> 
+
+</p>. 
+
+🎤 Lecture 3 "Ontroduction to collaborative reproducible research, the example of the Ocean Health Index" ⬇️ Download the slides from osf.io: <a href="https://osf.io/vte9u/">PDF</a> or <a href="https://osf.io/vte9u/download">pptx</a>
+
+</p>
 
 <h2 id="schedule">Schedule</h2>
 
 <h3>10 Sept 15:20-17:00 Git for Archaeological Science</h3>
 
-Download the slides from osf.io: <a href="https://osf.io/dwks9/">PDF</a> or <a href="https://osf.io/dwks9/download">pptx</a>
+⬇️ Download the slides from osf.io: <a href="https://osf.io/dwks9/">PDF</a> or <a href="https://osf.io/dwks9/download">pptx</a>
+</p>
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -179,7 +190,12 @@ Between each topic we will have a short break for fresh air and a stretch. We wi
 <p>
 <h3>11 Sept 10:00-16:00 Writing Reproducible Research with R and rrtools</h3>
 
-<style type="text/css">
+⬇️ View the slides on <a href="https://benmarwick.github.io/Marwick-Nara-2019-lecture-4-rrtools-workshop/Marwick-Nara-2019-lecture-4-rrtools-workshop.html#1>GitHub</a> or view the <a href="https://github.com/benmarwick/Marwick-Nara-2019-lecture-4-rrtools-workshop">R Markdown source document</a>
+</p>. Download the compendium containing the `paper.Rmd` fileused for the demonstration from osf.io: 
+
+a href="https://osf.io/sz9rx/">zip</a>
+
+</p>yle type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;}
 .tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;}
