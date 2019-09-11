@@ -128,6 +128,8 @@ To participate in the workshop, you need to ...
 
 <h3>10 Sept 15:20-17:00 Git for Archaeological Science</h3>
 
+Download the slides from osf.io: <a href="https://osf.io/dwks9/">PDF</a> or <a href="https://osf.io/dwks9/download">pptx</a>
+
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;}

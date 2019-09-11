@@ -1,1 +1,0 @@
-chalice of the palace
