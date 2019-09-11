@@ -123,7 +123,7 @@ If you have problems or questions, please send us an email
 
 🎤 Lecture 1: "Modern tools and approachesto scientific data management, analysis, visualization, collaboration in archaeology and cultural heritage" ⬇️ Download the slides from osf.io: <a href="https://osf.io/ubvcp/">PDF</a> or <a href="https://osf.io/ubvcp/download">pptx</a>. Download the R code and data used in the demonstration from osf.io: <a href="https://osf.io/bpmd4/download">zip</a>
 
-<p>
+</p>
 
 🎤 Lecture 2: "Open Access, Open Data, and Open Methods: Three steps to transparency that are redefining archaeological science" ⬇️ Download the slides from osf.io: <a href="https://osf.io/4a6cw/">PDF</a> or <a href="https://osf.io/4a6cw/download">pptx</a>. 
 Download the accompanying paper "Archaeological science and current trends in research publication, data management, and methods transparency and reproducibility" from osf.io: <a href="https://osf.io/apkfn/">PDF</a> 
@@ -134,7 +134,7 @@ Download the accompanying paper "Archaeological science and current trends in re
 
 <p>
 
-<h2 id="schedule">Schedule</h2>
+<h2 id="schedule">Workshop Schedule</h2>
 
 <h3>10 Sept 15:20-17:00 Git for Archaeological Science</h3>
 
