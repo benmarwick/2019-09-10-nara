@@ -190,7 +190,7 @@ Between each topic we will have a short break for fresh air and a stretch. We wi
 <p>
 <h3>11 Sept 10:00-16:00 Writing Reproducible Research with R and rrtools</h3>
 
-⬇️ View the slides on <a href="https://benmarwick.github.io/Marwick-Nara-2019-lecture-4-rrtools-workshop/Marwick-Nara-2019-lecture-4-rrtools-workshop.html#1">GitHub</a> or view the <a href="https://github.com/benmarwick/Marwick-Nara-2019-lecture-4-rrtools-workshop">R Markdown source document</a>. View the detailed step-by-step instructions at the <a href="https://github.com/benmarwick/rrtools">rrtools</a> GitHub repository. Download the compendium containing the `paper.Rmd` fileused for the demonstration from osf.io: 
+⬇️ View the slides on <a href="https://benmarwick.github.io/Marwick-Nara-2019-lecture-4-rrtools-workshop/Marwick-Nara-2019-lecture-4-rrtools-workshop.html#1">GitHub</a> or view the <a href="https://github.com/benmarwick/Marwick-Nara-2019-lecture-4-rrtools-workshop">R Markdown source document</a>. View the detailed step-by-step instructions at the <a href="https://github.com/benmarwick/rrtools">rrtools</a> GitHub repository. Download the example compendium containing the `paper.Rmd` file used for the demonstration from osf.io: 
 <a href="https://osf.io/sz9rx/">zip</a>
 
 <p>
