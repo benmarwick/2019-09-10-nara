@@ -130,7 +130,7 @@ Download the accompanying paper "Archaeological science and current trends in re
 
 <p>
 
-🎤 Lecture 3 "Ontroduction to collaborative reproducible research, the example of the Ocean Health Index" ⬇️ Download the slides from osf.io: <a href="https://osf.io/vte9u/">PDF</a> or <a href="https://osf.io/vte9u/download">pptx</a>
+🎤 Lecture 3 "Introduction to collaborative reproducible research, the example of the Ocean Health Index" ⬇️ Download the slides from osf.io: <a href="https://osf.io/vte9u/">PDF</a> or <a href="https://osf.io/vte9u/download">pptx</a>
 
 <p>
 
